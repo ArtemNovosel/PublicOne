@@ -13,9 +13,7 @@ value = list(per_cent.values()) # формируем список значени
 
 deposit = [] # список накопленных средств за год вклада
 
-for i in value:
-
-    deposit.append(int(i*money/100)) #   добовляем в список сумму накоплений по каждому банку
+for i in value:    deposit.append(int(i*money/100)) #   добовляем в список сумму накоплений по каждому банку
     
 print(deposit)
 
