@@ -1,3 +1,1 @@
-# PublicOne 
-Модуль 9 
-Hello world
+ЗАДАНИЕ 12.7.3 (HW-03)
